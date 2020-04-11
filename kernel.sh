@@ -10,3 +10,6 @@ lsblk
 uname -r
 free -m
 iostat
+cat /etc/os-release
+sar -u
+nproc
