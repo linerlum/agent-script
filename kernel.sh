@@ -8,3 +8,6 @@ fi
 lscpu
 lsblk
 uname -r
+cat /proc/meminfo
+cat /proc/cpuinfo
+lsb_release -a
