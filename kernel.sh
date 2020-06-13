@@ -16,3 +16,6 @@ iostat
 cat /etc/os-release
 sar -u
 nproc
+df -h
+w
+
